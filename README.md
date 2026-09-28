@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 11
+## Problems Solved: 15
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -39,6 +39,18 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 ### Heap
 - [Kth Largest Element in an Array](heap/kth-largest-element) — min-heap capped at size k, O(n log k)
 
+### Two Pointers
+- [Container With Most Water](two-pointers/container-with-most-water) — two pointers from both ends, O(n)
+
+### Intervals
+- [Merge Intervals](intervals/merge-intervals) — sort + linear merge, O(n log n)
+
+### Bit Manipulation
+- [Single Number](bit-manipulation/single-number) — XOR trick, O(n)
+
+### Recursion
+- [Climbing Stairs](recursion/climbing-stairs) — Fibonacci recurrence with memoization, O(n)
+
 ## How each problem is organized
 
 ```
@@ -48,4 +60,4 @@ topic-name/
     README.md       <- problem statement, approach explanation, complexity analysis
 ```
 
-More problems get added over time, across more topics (tries, union-find, bit manipulation, intervals, etc.) as I keep practicing.
+More problems get added over time, across more topics (tries, union-find, math, design, etc.) as I keep practicing.
