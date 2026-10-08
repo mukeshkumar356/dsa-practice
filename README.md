@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 18
+## Problems Solved: 19
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -23,6 +23,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Graphs
 - [Number of Islands](graphs/number-of-islands) — DFS flood fill, O(rows*cols)
+- [Course Schedule](graphs/course-schedule) — Kahn's topological sort (cycle detection), O(V+E)
 
 ### Binary Search
 - [Search in Rotated Sorted Array](binary-search/search-rotated-sorted-array) — modified binary search, O(log n)
