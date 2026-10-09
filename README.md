@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 19
+## Problems Solved: 20
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -20,6 +20,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Dynamic Programming
 - [Longest Common Subsequence](dynamic-programming/longest-common-subsequence) — 2D DP table, O(m*n)
+- [Coin Change](dynamic-programming/coin-change) — bottom-up DP (unbounded knapsack), O(amount * n) — Medium, solved 2026-10-09
 
 ### Graphs
 - [Number of Islands](graphs/number-of-islands) — DFS flood fill, O(rows*cols)
