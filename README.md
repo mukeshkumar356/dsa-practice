@@ -17,6 +17,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Trees
 - [Binary Tree Level Order Traversal](trees/binary-tree-level-order-traversal) — BFS, O(n)
+- [Validate Binary Search Tree](trees/validate-binary-search-tree) — DFS with (lo, hi) bounds, O(n) — Medium, solved 2026-10-10
 
 ### Dynamic Programming
 - [Longest Common Subsequence](dynamic-programming/longest-common-subsequence) — 2D DP table, O(m*n)
