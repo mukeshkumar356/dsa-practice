@@ -15,6 +15,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Linked List
 - [Reverse Linked List](linked-list/reverse-linked-list) — iterative pointer reversal, O(n)
+- [Linked List Cycle II](linked-list/linked-list-cycle-ii) — Floyd's tortoise & hare, O(n) time, O(1) space — Medium, solved 2026-10-12
 
 ### Trees
 - [Binary Tree Level Order Traversal](trees/binary-tree-level-order-traversal) — BFS, O(n)
