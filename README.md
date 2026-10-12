@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 23
+## Problems Solved: 24
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -12,6 +12,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Stacks
 - [Valid Parentheses](stacks/valid-parentheses) — stack matching, O(n)
+- [Daily Temperatures](stacks/daily-temperatures) — monotonic stack of indices, O(n) — Medium, solved 2026-10-12
 
 ### Linked List
 - [Reverse Linked List](linked-list/reverse-linked-list) — iterative pointer reversal, O(n)
