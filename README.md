@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 24
+## Problems Solved: 25
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -47,6 +47,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Two Pointers
 - [Container With Most Water](two-pointers/container-with-most-water) — two pointers from both ends, O(n)
+- [Trapping Rain Water](two-pointers/trapping-rain-water) — two pointers with running left/right max, O(n) time, O(1) space — Hard, solved 2026-10-13
 
 ### Intervals
 - [Merge Intervals](intervals/merge-intervals) — sort + linear merge, O(n log n)
