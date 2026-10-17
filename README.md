@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 27
+## Problems Solved: 28
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -21,6 +21,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 ### Trees
 - [Binary Tree Level Order Traversal](trees/binary-tree-level-order-traversal) — BFS, O(n)
 - [Validate Binary Search Tree](trees/validate-binary-search-tree) — DFS with (lo, hi) bounds, O(n) — Medium, solved 2026-10-10
+- [Binary Tree Maximum Path Sum](trees/binary-tree-maximum-path-sum) — post-order DFS with downward gains, O(n) — Hard, solved 2026-10-17
 
 ### Dynamic Programming
 - [Longest Common Subsequence](dynamic-programming/longest-common-subsequence) — 2D DP table, O(m*n)
