@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 28
+## Problems Solved: 29
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -44,6 +44,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Backtracking
 - [Subsets](backtracking/subsets) — include/exclude backtracking, O(n * 2^n)
+- [Permutations](backtracking/permutations) — backtracking with a used array, O(n * n!) — Medium, solved 2026-10-18
 
 ### Heap
 - [Kth Largest Element in an Array](heap/kth-largest-element) — min-heap capped at size k, O(n log k)
