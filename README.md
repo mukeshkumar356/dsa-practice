@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 29
+## Problems Solved: 30
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -48,6 +48,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Heap
 - [Kth Largest Element in an Array](heap/kth-largest-element) — min-heap capped at size k, O(n log k)
+- [Top K Frequent Elements](heap/top-k-frequent-elements) — hashmap + bucket sort by frequency, O(n) — Medium, solved 2026-10-19
 
 ### Two Pointers
 - [Container With Most Water](two-pointers/container-with-most-water) — two pointers from both ends, O(n)
