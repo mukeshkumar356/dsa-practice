@@ -4,11 +4,14 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 30
+## Problems Solved: 31
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
 - [Group Anagrams](arrays-hashing/group-anagrams) — letter-count key + hashmap, O(n*k) — Medium, solved 2026-10-11
+
+### Strings
+- [Longest Palindromic Substring](strings/longest-palindromic-substring) — expand around center, O(n^2) time, O(1) space — Medium, solved 2026-10-20
 
 ### Stacks
 - [Valid Parentheses](stacks/valid-parentheses) — stack matching, O(n)
