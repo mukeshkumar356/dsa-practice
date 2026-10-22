@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 32
+## Problems Solved: 33
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -39,6 +39,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Binary Search
 - [Search in Rotated Sorted Array](binary-search/search-rotated-sorted-array) — modified binary search, O(log n)
+- [Median of Two Sorted Arrays](binary-search/median-of-two-sorted-arrays) — binary search on partition of smaller array, O(log(min(m,n))) — Hard, solved 2026-10-22
 
 ### Sliding Window
 - [Longest Substring Without Repeating Characters](sliding-window/longest-substring-without-repeating) — sliding window + hashmap, O(n)
