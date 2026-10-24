@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 34
+## Problems Solved: 35
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -21,6 +21,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 ### Linked List
 - [Reverse Linked List](linked-list/reverse-linked-list) — iterative pointer reversal, O(n)
 - [Linked List Cycle II](linked-list/linked-list-cycle-ii) — Floyd's tortoise & hare, O(n) time, O(1) space — Medium, solved 2026-10-12
+- [Merge k Sorted Lists](linked-list/merge-k-sorted-lists) — min-heap of list heads, O(N log k) — Hard, solved 2026-10-24
 
 ### Trees
 - [Binary Tree Level Order Traversal](trees/binary-tree-level-order-traversal) — BFS, O(n)
