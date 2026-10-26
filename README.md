@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 36
+## Problems Solved: 37
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -49,6 +49,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Greedy
 - [Jump Game](greedy/jump-game) — greedy reachability, O(n)
+- [Gas Station](greedy/gas-station) — greedy single pass with total/tank reset, O(n) time, O(1) space — Medium, solved 2026-10-26
 
 ### Backtracking
 - [Subsets](backtracking/subsets) — include/exclude backtracking, O(n * 2^n)
