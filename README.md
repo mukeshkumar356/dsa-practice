@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 39
+## Problems Solved: 40
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -82,6 +82,8 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Prefix Sum
 - [Subarray Sum Equals K](prefix-sum/subarray-sum-equals-k) — prefix sum + hashmap, O(n)
+### Design
+- [LRU Cache](design/lru-cache) — hash map + doubly linked list with sentinels, O(1) per op — Medium, solved 2026-10-29
 
 ## How each problem is organized
 
