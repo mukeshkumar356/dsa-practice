@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 43
+## Problems Solved: 44
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -79,6 +79,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Union-Find
 - [Number of Provinces](union-find/number-of-provinces) — disjoint set union, O(n^2 * alpha(n))
+- [Redundant Connection](union-find/redundant-connection) — union-find, first edge closing a cycle, O(n * alpha(n)) — Medium, solved 2026-11-02
 
 ### Tries
 - [Implement Trie (Prefix Tree)](tries/implement-trie) — 26-ary tree with an isEnd flag, O(L) per op
