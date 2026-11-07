@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 48
+## Problems Solved: 49
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -90,6 +90,9 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Prefix Sum
 - [Subarray Sum Equals K](prefix-sum/subarray-sum-equals-k) — prefix sum + hashmap, O(n)
+### Sorting
+- [Sort Colors](sorting/sort-colors) — Dutch National Flag three-way partition, O(n) time, O(1) space — Medium, solved 2026-11-07
+
 ### Design
 - [LRU Cache](design/lru-cache) — hash map + doubly linked list with sentinels, O(1) per op — Medium, solved 2026-10-29
 
