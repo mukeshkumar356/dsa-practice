@@ -10,6 +10,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
 - [Group Anagrams](arrays-hashing/group-anagrams) — letter-count key + hashmap, O(n*k) — Medium, solved 2026-10-11
 - [Product of Array Except Self](arrays-hashing/product-of-array-except-self) — prefix/suffix products without division, O(n) time, O(1) extra space — Medium, solved 2026-10-25
+- [Rotate Image](arrays-hashing/rotate-image) — transpose then reverse each row, in-place, O(n^2) time, O(1) space — Medium, solved 2026-11-10
 
 ### Strings
 - [Longest Palindromic Substring](strings/longest-palindromic-substring) — expand around center, O(n^2) time, O(1) space — Medium, solved 2026-10-20
