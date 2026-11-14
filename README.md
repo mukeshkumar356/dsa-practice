@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 55
+## Problems Solved: 56
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -42,6 +42,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 - [Edit Distance](dynamic-programming/edit-distance) — 2D DP with rolling rows, O(m*n) time, O(n) space — Hard, solved 2026-10-21
 - [Longest Increasing Subsequence](dynamic-programming/longest-increasing-subsequence) — patience sorting with binary search on tails, O(n log n) — Medium, solved 2026-10-30
 - [House Robber II](dynamic-programming/house-robber-ii) — circular array: two linear DP passes (skip first / skip last), O(n) time, O(1) space — Medium, solved 2026-11-03
+- [Decode Ways](dynamic-programming/decode-ways) — prefix DP with rolling variables (1-digit / 2-digit codes), O(n) time, O(1) space — Medium, solved 2026-11-14
 
 ### Graphs
 - [Number of Islands](graphs/number-of-islands) — DFS flood fill, O(rows*cols)
