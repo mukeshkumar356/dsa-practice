@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 56
+## Problems Solved: 57
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -21,6 +21,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 - [Valid Parentheses](stacks/valid-parentheses) — stack matching, O(n)
 - [Daily Temperatures](stacks/daily-temperatures) — monotonic stack of indices, O(n) — Medium, solved 2026-10-12
 - [Largest Rectangle in Histogram](stacks/largest-rectangle-in-histogram) — monotonic increasing stack with sentinel, O(n) — Hard, solved 2026-10-23
+- [Evaluate Reverse Polish Notation](stacks/evaluate-reverse-polish-notation) — operand stack, pop right then left operand, O(n) time, O(n) space — Medium, solved 2026-11-15
 
 ### Linked List
 - [Reverse Linked List](linked-list/reverse-linked-list) — iterative pointer reversal, O(n)
