@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 60
+## Problems Solved: 61
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -62,6 +62,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 ### Sliding Window
 - [Longest Substring Without Repeating Characters](sliding-window/longest-substring-without-repeating) — sliding window + hashmap, O(n)
 - [Minimum Window Substring](sliding-window/minimum-window-substring) — sliding window with need-count array, O(|s|+|t|) — Hard, solved 2026-10-28
+- [Longest Repeating Character Replacement](sliding-window/longest-repeating-character-replacement) — sliding window with max-frequency count, window never shrinks, O(n) time, O(1) space — Medium, solved 2026-11-19
 
 ### Greedy
 - [Jump Game](greedy/jump-game) — greedy reachability, O(n)
