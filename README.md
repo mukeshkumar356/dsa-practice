@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 61
+## Problems Solved: 62
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -99,6 +99,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 
 ### Tries
 - [Implement Trie (Prefix Tree)](tries/implement-trie) — 26-ary tree with an isEnd flag, O(L) per op
+- [Design Add and Search Words Data Structure](tries/design-add-and-search-words) — trie + DFS branching on '.' wildcard, O(L) add, O(26^w * L) worst-case search — Medium, solved 2026-11-20
 
 ### Prefix Sum
 - [Subarray Sum Equals K](prefix-sum/subarray-sum-equals-k) — prefix sum + hashmap, O(n)
