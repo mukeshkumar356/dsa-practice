@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 63
+## Problems Solved: 64
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -36,6 +36,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 - [Binary Tree Maximum Path Sum](trees/binary-tree-maximum-path-sum) — post-order DFS with downward gains, O(n) — Hard, solved 2026-10-17
 - [Lowest Common Ancestor of a Binary Tree](trees/lowest-common-ancestor) — post-order DFS, split point is the LCA, O(n) — Medium, solved 2026-11-01
 - [Construct Binary Tree from Preorder and Inorder Traversal](trees/construct-binary-tree-preorder-inorder) — recursive split on inorder root index with value→index hash map, O(n) — Medium, solved 2026-11-11
+- [Kth Smallest Element in a BST](trees/kth-smallest-element-in-bst) — iterative inorder traversal with a stack, stops after k pops, O(h + k) time, O(h) space — Medium, solved 2026-11-22
 
 ### Dynamic Programming
 - [Longest Common Subsequence](dynamic-programming/longest-common-subsequence) — 2D DP table, O(m*n)
