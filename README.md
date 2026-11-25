@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 66
+## Problems Solved: 67
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -56,6 +56,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 - [Network Delay Time](graphs/network-delay-time) — Dijkstra with a min-heap, O(E log V) — Medium, solved 2026-10-31
 - [Clone Graph](graphs/clone-graph) — BFS with original→clone hash map, O(V+E) time, O(V) space — Medium, solved 2026-11-08
 - [Pacific Atlantic Water Flow](graphs/pacific-atlantic-water-flow) — reverse DFS from each ocean's border, intersect results, O(m*n) time, O(m*n) space — Medium, solved 2026-11-16
+- [Word Ladder](graphs/word-ladder) — BFS over one-letter-change neighbours with a hash set as visited, O(N * L^2 * 26) time, O(N * L) space — Hard, solved 2026-11-25
 
 ### Binary Search
 - [Search in Rotated Sorted Array](binary-search/search-rotated-sorted-array) — modified binary search, O(log n)
