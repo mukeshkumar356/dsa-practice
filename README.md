@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 67
+## Problems Solved: 68
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -12,6 +12,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 - [Product of Array Except Self](arrays-hashing/product-of-array-except-self) — prefix/suffix products without division, O(n) time, O(1) extra space — Medium, solved 2026-10-25
 - [Rotate Image](arrays-hashing/rotate-image) — transpose then reverse each row, in-place, O(n^2) time, O(1) space — Medium, solved 2026-11-10
 - [Longest Consecutive Sequence](arrays-hashing/longest-consecutive-sequence) — hash set, count only from sequence starts, O(n) time, O(n) space — Medium, solved 2026-11-12
+- [Best Time to Buy and Sell Stock](arrays-hashing/best-time-to-buy-and-sell-stock) — single pass tracking min price so far, O(n) time, O(1) space — Easy, solved 2026-11-26
 
 ### Strings
 - [Longest Palindromic Substring](strings/longest-palindromic-substring) — expand around center, O(n^2) time, O(1) space — Medium, solved 2026-10-20
