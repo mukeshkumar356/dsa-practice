@@ -4,7 +4,7 @@ Data Structures & Algorithms problems, solved in Java, organized by topic. Each 
 
 The goal is to keep this genuinely useful as a reference — not just for me, but for anyone else preparing for the same kind of problems.
 
-## Problems Solved: 69
+## Problems Solved: 70
 
 ### Arrays & Hashing
 - [Two Sum](arrays-hashing/two-sum) — hashmap, O(n)
@@ -96,6 +96,7 @@ The goal is to keep this genuinely useful as a reference — not just for me, bu
 ### Bit Manipulation
 - [Single Number](bit-manipulation/single-number) — XOR trick, O(n)
 - [Counting Bits](bit-manipulation/counting-bits) — DP on bits, ans[i] = ans[i>>1] + (i&1), O(n) — Easy, solved 2026-10-27
+- [Missing Number](bit-manipulation/missing-number) — XOR all indices and values so present numbers cancel, O(n) time, O(1) space — Easy, solved 2026-11-28
 
 ### Recursion
 - [Climbing Stairs](recursion/climbing-stairs) — Fibonacci recurrence with memoization, O(n)
